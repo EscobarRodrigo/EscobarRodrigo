@@ -8,6 +8,8 @@ I'm Rodrigo Escobar, front-end & back-end student living in Brazil 🇧🇷
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EscobarRodrigo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  ##
+  
 I'm learning:
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
