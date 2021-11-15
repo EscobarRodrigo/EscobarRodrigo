@@ -2,8 +2,9 @@
 
 I'm Rodrigo Escobar, front-end & back-end student living in Brazil/BR
 
-https://escobarrodrigo.github.io/Portifolio/
-
+ <a href="https://escobarrodrigo.github.io/Portifolio/" target="_blank">
+         <img src="https://img.icons8.com/color/48/000000/baby-yoda.png"/>
+        </a>
 
  <a href="https://www.linkedin.com/in/rodrigo-escobar-63104655/" target="_blank">
          <img src="https://img.icons8.com/nolan/96/linkedin.png"/>
