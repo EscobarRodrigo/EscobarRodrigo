@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
 I'm Rodrigo Escobar, front-end & back-end student living in Brazil 🇧🇷
+
+
 Linkedin: https://www.linkedin.com/in/rodrigo-escobar-63104655/
 
 
