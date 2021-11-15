@@ -2,14 +2,18 @@
 
 I'm Rodrigo Escobar, front-end & back-end student living in Brazil/BR
 
-<a target="_blank" href="https://www.linkedin.com/in/rodrigo-escobar-63104655/">Linkedin</a>
-<a target="_blank" href="https://escobarrodrigo.github.io/Portifolio/">Portfolio</a>
 
  <a href="https://www.linkedin.com/in/rodrigo-escobar-63104655/" target="_blank">
          <img src="https://img.icons8.com/nolan/96/linkedin.png"/>
         </a>
+        
+ <a href="https://github.com/EscobarRodrigo" target="_blank">
+         <img src="https://img.icons8.com/nolan/96/github.png"/>
+        </a>
 
-
+<a href="https://www.instagram.com/rodrigogescobar/" target= "_blank">
+            <img src="https://img.icons8.com/nolan/96/instagram-new.png"/>
+         </a>
 
 
 <div align="center">
