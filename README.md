@@ -4,6 +4,7 @@ I'm Rodrigo Escobar, front-end & back-end student living in Brazil/BR
 
 
 Linkedin: https://www.linkedin.com/in/rodrigo-escobar-63104655/
+<a target="_blank" href="https://www.linkedin.com/in/rodrigo-escobar-63104655/">Linkedin</a>
 
 
 
