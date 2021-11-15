@@ -2,7 +2,7 @@
 
 I'm Rodrigo Escobar, front-end & back-end student living in Brazil/BR
 
-<div style="display: inline_block"><br>
+<div style="display: block"><br>
  
  <a href="https://escobarrodrigo.github.io/Portifolio/" target="_blank">
          <img align="center" src="https://img.icons8.com/color/96/000000/baby-yoda.png"/>
