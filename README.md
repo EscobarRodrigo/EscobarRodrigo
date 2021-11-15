@@ -5,6 +5,10 @@ I'm Rodrigo Escobar, front-end & back-end student living in Brazil/BR
 <a target="_blank" href="https://www.linkedin.com/in/rodrigo-escobar-63104655/">Linkedin</a>
 <a target="_blank" href="https://escobarrodrigo.github.io/Portifolio/">Portfolio</a>
 
+ <a href="https://www.linkedin.com/in/rodrigo-escobar-63104655/" target="_blank">
+         <img src="https://img.icons8.com/nolan/96/linkedin.png"/>
+        </a>
+
 
 
 
